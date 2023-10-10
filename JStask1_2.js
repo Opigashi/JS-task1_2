@@ -1,3 +1,4 @@
+branch(task1_2)
 'use strict';
 
 while(true){
@@ -10,3 +11,4 @@ while(true){
     }
 }
 
+main
